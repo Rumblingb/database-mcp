@@ -1,4 +1,6 @@
-# Database MCP — Query databases from AI agents
+#      1|# Database MCP — Query databases from AI agents
+
+[![smithery badge](https://smithery.ai/badge/vishar-rumbling/database-mcp)](https://smithery.ai/servers/vishar-rumbling/database-mcp)
 
 Query SQLite, PostgreSQL, and MySQL databases directly from any MCP-compatible AI agent.
 
